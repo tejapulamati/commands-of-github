@@ -18,7 +18,9 @@
  git add filename or git add -> it will add files to staging area
  git commet -m"commit message" -> it will commit the changes to local repositories
  git push -> it will push the the changes to remote repositories
- 
+ git remote add origin https://github.com/tejapulamati/Devopstestrepo.git
+                       "(use or paste the repository url")   
+                       
  
  
  
